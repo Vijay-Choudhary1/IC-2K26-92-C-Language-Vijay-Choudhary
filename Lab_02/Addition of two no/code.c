@@ -2,7 +2,7 @@
 int main() {
     int a = 5;
     int b = 4;
-    printf("%d",a+b);
+    printf("%d",a+b\n);
     printf("Vijay Choudhary");
     return 0;
     
