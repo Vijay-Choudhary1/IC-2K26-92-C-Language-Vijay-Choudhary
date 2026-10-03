@@ -2,7 +2,8 @@
 int main(){
     int a = 8;
     int b = --a;
-    printf("%d",b);
+    printf("%d\n",b);
+    printf("Vijay Choudhary");
     return 0;
     
 }
