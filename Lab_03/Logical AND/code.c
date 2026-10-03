@@ -2,7 +2,8 @@
 int main () {
     int a = 18;
     int b = 20;
-    printf("%d", a> 15 && b> 18);
+     printf("Vijay Choudhary\n");
+    printf("%d\n", a> 15 && b> 18);
     printf("%d", a> 19 && b> 18);
     
     return 0;
