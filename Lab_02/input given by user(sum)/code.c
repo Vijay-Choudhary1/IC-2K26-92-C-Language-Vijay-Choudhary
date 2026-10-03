@@ -2,6 +2,7 @@
 int main() {
     int a;
     int b;
+     printf("Vijay Choudhary\n");
     printf("Enter a :\n");
     scanf("%d", &a);
     printf("Enter b :\n");
