@@ -3,6 +3,7 @@ int main(){
     int a = 5;
     int b = a++;
     printf("%d\n",b);
-     printf("%d",a);
+     printf("%d\n",a);
+    printf("Vijay Choudhary");
 
 } 
