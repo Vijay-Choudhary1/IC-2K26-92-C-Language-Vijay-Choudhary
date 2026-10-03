@@ -2,7 +2,7 @@
 
 int main() {
     int n, a = 0, b = 1, nextTerm;
-
+    printf("Vijay Choudhary\n");
     printf("Enter the number of terms: ");
     scanf("%d", &n);
 
