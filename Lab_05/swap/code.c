@@ -2,6 +2,7 @@
 int main() {
   int a = 26 , b = 19 ;
     int c ;
+    printf("Vijay Choudhary\n");
     printf("Value of a is %d and value of b is %d\n", a , b);
     c = a ;
     a = b ;
