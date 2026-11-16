@@ -5,8 +5,8 @@ struct Student
     char name[20];
     float marks;
 };
-int main()
-{
+int main() {
+    printf("vijay choudhary\n");
     struct Student s[3] = {
         {1, "Amit", 85.5},
         {2, "Rahul", 90.0},
